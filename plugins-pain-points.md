@@ -80,6 +80,6 @@
 - Sensu plugins skel repo; with information on getting started and what plugins should look like;
   - May need to be more discoverable(?)
 - @amdprophet: likes integration testing
-  - Regarding unit tests: mocking ffi calls is difficult.
+  - Regarding unit tests: mocking FFI calls is difficult.
   - A downside of integration testing is that it's hard to target every platform. eg. Windows & (impossible) AIX
   - It was suggested that we get linux testing story great first, and then worry about BSD, Windows, etc.
