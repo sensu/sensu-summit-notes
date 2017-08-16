@@ -12,7 +12,7 @@
 
 ## Performance
 
--  Plugin installation is can be very slow.
+-  Plugin installation can be very slow.
   - Example: when using auto-scaling group and instances with 50 plugins by the time the new instance has converged the problem has fixed it's self
   - More and more plugins are using many / large dependencies
   - Could be better documentation for performance concerns and solutions. 
