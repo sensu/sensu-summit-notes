@@ -25,14 +25,14 @@
 - Distinct lack of Windows plugins
   - How can we empower the community to contribute more Windows plugins
   - Majority of the current contributors and maintainers are not regularly administrating Windows environments
-  - Could use more documentation? More windows boilerplate? scaffolding?
+  - Could use more documentation? More windows boilerplate? Scaffolding?
 
 ## Contributing
 
 - Not immediately clear how to contribute new plugins.
   - Currently the process is buried in a `.github/PULL_REQUEST_TEMPLATE.md` file.
   - This could be helped with better documentation.
-  - matt pls halp
+  - @mbbroberg pls halp
 
 ## Best Practices
 
@@ -66,7 +66,7 @@
 - Look at DCOS plugin has good example of integrating testing
   - Limit the scope as much as possible
   - Tests should check output status, etc.
-  - matt: adding something ^ like this to the skel repo would be helpful.
+  - @mbbroberg: adding something ^ like this to the skel repo might be helpful.
 - Steps
   - phase one: improve integration
   - phase two: improve unit tests
