@@ -13,7 +13,7 @@
 ## Performance
 
 -  Plugin installation can be very slow.
-  - Example: when using auto-scaling group and instances with 50 plugins by the time the new instance has converged the problem has fixed it's self
+  - Example: when using auto-scaling group and instances with 50 plugins by the time the new instance has converged the problem has fixed itself
   - More and more plugins are using many / large dependencies
   - Could be better documentation for performance concerns and solutions. 
   - Possibly provide boilerplate code for embedding in debian package.
