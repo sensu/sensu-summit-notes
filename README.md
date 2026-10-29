@@ -1,3 +1,8 @@
+> [!WARNING]
+> **This repository is scheduled to be archived on 13th November 2026.**
+>
+> After that date it will be read-only: no new commits, issues, or pull requests, and no further maintenance or security updates will be issued.
+
 # Sensu Summit Notes
 
 <img width="2289" alt="sensusummit-logotype-color" src="https://user-images.githubusercontent.com/1744971/44545828-f3483380-a6ca-11e8-8703-804f9381ee6f.png">
